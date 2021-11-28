@@ -1,3 +1,6 @@
+# Sim #
+All simulations are in the .asc format which can be run in LTSpice XVII
+
 # 555_Timer_10V #
 The voltage divider will be replaced with a potentiometer to adjust the Duty Cycle. Adjusting the duty cycle via the potentiometer will change the output voltage (larger duty cycle = larger output V)
 
